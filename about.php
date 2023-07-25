@@ -271,6 +271,8 @@
               <div class="form-group text-center">
                 <button class="ps-btn">Send Message<i class="fa fa-angle-right"></i></button>
               </div>
+ </div>
+ </div>
             </form>
           </footer>
         </div>
