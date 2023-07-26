@@ -7,7 +7,7 @@ $cartRepository = new CartRepository();
 $shoeRepository = new ShoeRepository();
 
 $infoUser = Auth::loginWithCookie();
-
+# Test ở đây
 ?>
 <?php
     if($infoUser!=null){
