@@ -36,12 +36,14 @@
                     <h2 class="title">Đăng Ký</h2>
                     <form method="POST">
                         <div class="row row-space">
+                            <!-- .... -->
                             <div class="col-2">
                                 <div class="input-group">
                                     <label class="label">Username</label>
                                     <input minlength="5" maxlength="20" class="input--style-4" type="text" name="username">
                                 </div>
                             </div>
+                            <!-- ... -->
                             <div class="col-2">
                                 <div class="input-group">
                                     <label class="label">Password</label>
