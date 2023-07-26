@@ -8,7 +8,6 @@ $shoeRepository = new ShoeRepository();
 
 $infoUser = Auth::loginWithCookie();
 # Test ở đây
-//Nhut
 ?>
 <?php
     if($infoUser!=null){
